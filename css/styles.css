@@ -10,7 +10,7 @@ h2 {
 
 /* navbar */
 #navbar {
-  background-color: #90ee90; /* Verde */
+  background-color: #2E8B57; /* Verde */
   color: #FFF;
   padding: 0 15px;
   height: 60px;
@@ -73,13 +73,13 @@ h2 {
 #banner-info img {
   height: 120px;
   border-radius: 50%;
-  background-color: #90ee90;
+  background-color: #2E8B57;
   margin-top: 30px;
   margin-bottom: 30px;
 }
 
 #banner-info p {
-  background-color: #90ee90;
+  background-color: #2E8B57;
   font-weight: bold;
   width: 200px;
   margin-right: auto;
@@ -91,7 +91,7 @@ h2 {
 
 #about-section {
   text-align: center;
-  background-color: #90ee90;
+  background-color: #2E8B57;
   color: #FFF;
   padding-top: 50px;
   height: 350px;
@@ -138,7 +138,7 @@ h2 {
 }
 
 .skills-container h3 {
-  color: #90ee90;
+  color: #2E8B57;
   font-size: 20px;
 }
 
@@ -146,15 +146,15 @@ h2 {
   height: 60px;
   padding: 15px;
   margin-bottom: 25px;
-  border-top: 1px solid #90ee90;
-  border-left: 1px solid #90ee90;
-  border-bottom: 4px solid #90ee90;
-  border-right: 4px solid #90ee90;
+  border-top: 1px solid #2E8B57;
+  border-left: 1px solid #2E8B57;
+  border-bottom: 4px solid #2E8B57;
+  border-right: 4px solid #2E8B57;
 }
 
 .skills-container .subtitle {
   font-weight: bold;
-  color: #90ee90;
+  color: #2E8B57;
   margin-top: 50px;
   margin-bottom: 15px;;
 }
@@ -171,7 +171,7 @@ h2 {
 }
 
 #jobs-section h2 {
-  color: #90ee90;
+  color: #2E8B57;
   margin-bottom: 30px;
 }
 
@@ -181,7 +181,7 @@ h2 {
 
 #jobs-section a {
   font-weight: bold;
-  color: #90ee90;
+  color: #2E8B57;
 }
 
 .job-container {
@@ -200,8 +200,8 @@ h2 {
   margin-right: 25px;
   height: 300px;
   background-size: cover;
-  border-right: 2px solid #90ee90;
-  border-bottom: 2px solid #90ee90;
+  border-right: 2px solid #2E8B57;
+  border-bottom: 2px solid #2E8B57;
 }
 
 .proj1 {
@@ -220,7 +220,7 @@ h2 {
 
 footer {
   padding: 50px 0;
-  background-color: #90ee90;
+  background-color: #2E8B57;
   color: #FFF;
   text-align: center;
 }
